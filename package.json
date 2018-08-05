@@ -1,0 +1,31 @@
+{
+  "name": "lottery",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "npm": "^6.3.0",
+    "package-lock": "^1.0.0",
+    "path": "^0.12.7",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "^1.1.4",
+    "scrypt": "^6.0.3",
+    "semantic-ui-react": "^0.82.1",
+    "solc": "^0.4.24",
+    "start": "^5.1.0",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.35"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "compile.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
