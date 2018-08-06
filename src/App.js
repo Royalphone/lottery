@@ -65,7 +65,7 @@ class App extends Component {
      <Container>
              <Header as='h2' icon textAlign='center'>
                  <Icon name='users' circular />
-                 <Header.Content>黑马区块链彩票</Header.Content>
+                 <Header.Content>区块链彩票</Header.Content>
              </Header>
          <Card>
              <Image src='../images/logo.jpg' />
